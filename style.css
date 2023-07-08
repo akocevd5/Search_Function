@@ -1,0 +1,17 @@
+
+
+.list-item {
+    list-style: none;
+    border: 1px solid black;
+    width: 200px;
+    
+    
+}
+
+.list-items {
+    padding-left: 0%;
+    
+}
+#searchTerm{
+    width: 200px;
+}
